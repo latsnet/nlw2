@@ -25,3 +25,6 @@
 > yarn add @types/express
 
 > yarn add knex sqlite3
+
+> yarn add cors
+> yarn add @types/cors
